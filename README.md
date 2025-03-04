@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasbaldezzari. I'm 37 years old. I'm from Argentina but I'm living in Uruguay. I'm a Bioengineer, and I have a Master in Data Science. I'm a Associate Professor in Universidad Tecnológica (UTEC) from Uruguay.
+- 👋 Hi, I’m @lucasbaldezzari. I'm 38 years old. I'm from Argentina but I'm living in Uruguay. I'm a Bioengineer, and I have a Master in Data Science. I'm a Associate Professor in Universidad Tecnológica (UTEC) from Uruguay.
 - 👀 I’m interested in Neuroscience, specifically in Brain Computer Interfaces, Machine Learning and Data Science.
 - 🌱 PhD student!
 - 📫 You can reach me sending a message to lucas.baldezzari@utec.edu.uy or in my [linkedin profile](https://www.linkedin.com/in/lucasbaldezzari/).
